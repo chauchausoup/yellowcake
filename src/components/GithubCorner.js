@@ -2,7 +2,7 @@ import React from 'react'
 import './GithubCorner.css'
 
 export default ({ url, style, className = '', color = '#151513' }) => (
-  <a
+ /* <a
     className={`GithubCorner ${className}`}
     href={url}
     target="_blank"
@@ -29,5 +29,5 @@ export default ({ url, style, className = '', color = '#151513' }) => (
         fill="currentColor"
       />
     </svg>
-  </a>
+  </a> */
 )
