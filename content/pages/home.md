@@ -1,13 +1,11 @@
 ---
 template: HomePage
 slug: ""
-title: Yellowcake
-featuredImage: https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/
-subtitle: " Welcome to the ultimate Gatsby and Netlify starter project."
+title: Krishna Dhakal
+featuredImage: https://edsurge.imgix.net/uploads/post/image/11914/teaching-1552092162.jpg
+subtitle: " Pulchowk Campus, 2020"
 meta:
   description: This is a meta description.
-  title: The Ultimate Gatsby Starter
+  title: Krishna Dhakal's Blog
 ---
-hello
 
-new blog ?

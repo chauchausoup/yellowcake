@@ -6,6 +6,8 @@
 
 .PageHeader .BackgroundImage {
   opacity: 0.8;
+  filter: blur(8px);
+  -webkit-filter: blur(2px);
 }
 
 .PageHeader-large {
