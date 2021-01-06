@@ -1,6 +1,5 @@
 import React from 'react'
 import { graphql } from 'gatsby'
-
 import PageHeader from '../components/PageHeader'
 import Content from '../components/Content'
 import Layout from '../components/Layout'
@@ -14,7 +13,7 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, body }) => (
       subtitle={subtitle}
       backgroundImage={featuredImage}
     />
-
+ 
     <section className="section">
       <div className="container">
         <Content source={body} />

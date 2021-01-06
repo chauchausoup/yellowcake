@@ -9,3 +9,23 @@ meta:
   title: Krishna Dhakal's Blog
 ---
 
+### Projects
+
+- *Human Detection,Tracking and Reidentification*, Major Project at Pulchowk Campus 2020
+- *Traffic Data Visualization and Collection System* with Javascript,PHP,HTML5 Minor Project at Pulchowk Campus 2019
+
+
+### Skills
+
+- Javascript with ReactJS, NodeJS 
+- Database as MongoDB, MySQL
+- AWS,GCP,Kubernetes 
+
+
+### Socials
+
+- [Github](https://github.com/chauchausoup/)
+- [Linkedin](https://www.linkedin.com/in/krishna-dhakal-60400a169/)
+- <chauchausoup@outlook.com>
+- [Upwork](https://www.upwork.com/freelancers/~0158ace3e5c4e72b07)
+- [Fiverr](https://www.fiverr.com/chauchausoup)
