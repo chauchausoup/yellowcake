@@ -27,5 +27,9 @@ meta:
 - [Github](https://github.com/chauchausoup/)
 - [Linkedin](https://www.linkedin.com/in/krishna-dhakal-60400a169/)
 - <chauchausoup@outlook.com>
+- [Instagram](https://www.instagram.com/chauchausoup/)
 - [Upwork](https://www.upwork.com/freelancers/~0158ace3e5c4e72b07)
 - [Fiverr](https://www.fiverr.com/chauchausoup)
+- [HackerRank](https://www.hackerrank.com/7krishna7dhakal7)
+- [Dev.to](https://dev.to/chauchausoup)
+
