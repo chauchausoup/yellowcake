@@ -18,6 +18,7 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, body }) => (
       backgroundImage={featuredImage}
     /> */}
     <CustomPageHeader/>
+    
     <HomePageContent/>
  
     <section className="section">

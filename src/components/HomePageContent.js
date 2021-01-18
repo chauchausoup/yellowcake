@@ -20,7 +20,7 @@ function HomePageContent(){
                             </div>
                             <br/>
                             <div className="projectStacks">
-                            Stack
+                            
 
                                 <ul className="stacks">
                                     <li className="stackItem">Javascript</li>
@@ -48,11 +48,65 @@ function HomePageContent(){
                             </div>
                         
                         </li> */}
-                        <li className="projectPer">3</li>
-                        <li className="projectPer">4</li>
-                        <li className="projectPer">5</li>
-                        <li className="projectPer">6</li>
-                        <li className="projectPer">7</li>
+                        <li className="projectPer">
+                        <div className="projectTitle">
+                                News Portal Dashboard App using MERN stack
+                            </div>
+                            <div className="projectDesc">
+                                Individuals can login and add their news entry in the dashboard.
+                            </div>
+                            <br/>
+                            <div className="projectStacks">
+                            
+
+                                <ul className="stacks">
+                                    <li className="stackItem">Mongo DB</li>
+                                    <li className="stackItem">React</li>
+                                    <li className="stackItem">NodeJS</li>
+                                    <li className="stackItem">ExpressJS</li>
+
+                                </ul>
+                            </div>
+
+                        </li>
+                        <li className="projectPer">
+                        <div className="projectTitle">
+                               MVP for a Audience Response System
+                            </div>
+                            <div className="projectDesc">
+                                ARS was made using Socket IO and NodeJS at backend. It gave real time communication in between the components.
+                            </div>
+                            <br/>
+                            <div className="projectStacks">
+                            
+
+                                <ul className="stacks">
+                                    <li className="stackItem">NodeJS</li>
+                                    <li className="stackItem">ReactJS</li>
+                                    <li className="stackItem">SocketIO</li>
+                                </ul>
+                            </div>
+
+                        </li>
+                        <li className="projectPer">
+                        <div className="projectTitle">
+                                MVP website for professional doctors.
+                            </div>
+                            <div className="projectDesc">
+                                React app with leafletJS for mapping doctors position, dashboard for managing clients data.
+                            </div>
+                            <br/>
+                            <div className="projectStacks">
+                           
+
+                                <ul className="stacks">
+                                    <li className="stackItem">React</li>
+                                    <li className="stackItem">LeafletJS</li>
+                                    <li className="stackItem">React Router</li>
+                                </ul>
+                            </div>
+
+                        </li>
                     </ul>
                 </div>
             </div>

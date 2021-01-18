@@ -19,11 +19,11 @@ img {
 
 .insideInfo {
   display: flex;
-  height: auto;
+  height: 100vh;
 }
 
-.customHeader {
-  background-color: rgba(207, 207, 195, 0.862)
+.customHeader{
+  height: auto;
 }
 
 #heading1 {
@@ -48,10 +48,9 @@ img {
      
     display: flex;
     flex-direction: column;
+    height: auto;
   }
-  .customHeader{
-      background-color: rgb(187, 176, 176);
-  }
+ 
   .img{
       height: 200px;
   }
