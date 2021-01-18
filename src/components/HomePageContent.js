@@ -1,15 +1,14 @@
 import React from 'react'
 import './HomePageContent.css'
-import reactLogo from '../../static/images/github.png'
+import reactLogo from '../../static/images/react.png'
 import bootstrap from '../../static/images/bootstrap.png'
 import htmljscss from '../../static/images/web.png'
-import nodejs from '../../static/images/node.png'
+/* import nodejs from '../../static/images/node.png'
 import socketio from '../../static/images/socket.png'
 import express from '../../static/images/express.png'
 import mongo from '../../static/images/mongo.png'
-import mysql from '../../static/images/bootstrap.png'
-import bootstrap from '../../static/images/bootstrap.png'
-import bootstrap from '../../static/images/bootstrap.png'
+ */
+
 
 
 
@@ -25,16 +24,22 @@ function HomePageContent() {
             <ul className="skillPerInner">
               <li className="skillPerMoreInner">
                 <div className="skillPerLogo">
-                  <img src={reactLogo} alt="react logo" />
+                  <img src={reactLogo} alt="react logo"  />
                 </div>
                 <div className="skillPerName">React</div>
               </li>
               <li className="skillPerMoreInner">
-                <div className="skillPerLogo"></div>
+                <div className="skillPerLogo">
+                <img src={bootstrap} alt="bootstrap logo" />
+
+                </div>
                 <div className="skillPerName">Bootstrap</div>
               </li>
               <li className="skillPerMoreInner">
-                <div className="skillPerLogo"></div>
+                <div className="skillPerLogo">
+                <img src={htmljscss} alt="web logo" />
+
+                </div>
                 <div className="skillPerName">HTML,JS,CSS</div>
               </li>
             </ul>

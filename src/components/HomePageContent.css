@@ -58,7 +58,7 @@ align-items: center;
     text-align: center;
 }
 .skills{
-    background:linear-gradient(to right, rgb(190, 187, 187) , rgb(234, 231, 231));;
+    background:linear-gradient(to right, rgb(255, 255, 255) , rgb(234, 231, 231));
     height: 100vh;
     
 
@@ -71,9 +71,37 @@ align-items: center;
 }
 .skillPer{
     border: 1px solid white;
+    height: 190px;
     
 }
+.skillPerInner{
+    list-style: none;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
 
+   
+}
+.skillPerMoreInner{
+    align-items: center;
+    justify-content: center;
+    display: grid;
+    grid-template-columns: 1fr;
+   grid-template-rows: 1fr 0.4fr;
+}
+
+.skillPerName{
+    
+    text-align: center;
+    margin: 5px;
+    padding: 20px;
+}
+.skillPerLogo{
+    padding:auto;
+    margin: auto;
+}
+.skillPerLogo>img{
+    height: 100px;
+}
 .socials{
     background-color: rgb(24, 42, 48);
     height: 100vh;
