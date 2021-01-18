@@ -5,10 +5,22 @@
 
 .projects{
     background-color: greenyellow;
-    height: 100vh;
+    height: auto;
+    display: grid;
+    grid-template-columns: 0.33fr 0.67fr;
 
 }
 
+.projectGroup{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.projectPer{
+    background-color: lightcoral;
+    margin: 10px;
+    padding:10px;
+    height:90px;
+}
 .skills{
     background-color: khaki;
     height: 100vh;
