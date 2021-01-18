@@ -16,7 +16,7 @@ function CustomPageHeader(){
                     </div>
                     <div className="imageSide">
                         <div className="box">
-                            <img src="https://ucarecdn.com/d62f3ceb-c765-4ba4-b6b6-820e8a96d1ff/2.jpg" alt="img side"/>
+                            <img src='./images/imageSide.jpg' alt="img side"/>
                         </div>
                     </div> 
                 </div>               

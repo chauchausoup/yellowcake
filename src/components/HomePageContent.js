@@ -10,7 +10,27 @@ function HomePageContent(){
                 </div>
                 <div className="projectHolders">
                     <ul className="projectGroup">
+                        
                         <li className="projectPer">
+                        <div className="projectTitle">
+                                Traffic Data Entry and Visualization System
+                            </div>
+                            <div className="projectDesc">
+                                Heat map showing possible data entered using a client side web UI.
+                            </div>
+                            <br/>
+                            <div className="projectStacks">
+                            Stack
+
+                                <ul className="stacks">
+                                    <li className="stackItem">Javascript</li>
+                                    <li className="stackItem">PHP</li>
+                                    <li className="stackItem">MySQL</li>
+                                </ul>
+                            </div>
+
+                        </li>
+                        {/* <li className="projectPer">
                             <div className="projectTitle">
                                 Human Tracking and Reidentification
                             </div>
@@ -18,11 +38,16 @@ function HomePageContent(){
                                 Made using YOLOV4,Bhattacharya Distance,Karlman Filter etc
                             </div>
                             <div className="projectStacks">
-                                react, python
+                            Stack
+
+                                <ul className="stacks">
+                                    <li className="stackItem">Python</li>
+                                    <li className="stackItem">co lab</li>
+                                 
+                                </ul>
                             </div>
                         
-                        </li>
-                        <li className="projectPer">2</li>
+                        </li> */}
                         <li className="projectPer">3</li>
                         <li className="projectPer">4</li>
                         <li className="projectPer">5</li>
