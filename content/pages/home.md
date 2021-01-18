@@ -9,7 +9,7 @@ meta:
   title: Krishna Dhakal's Blog
 ---
 
-### Projects
+<!-- ### Projects
 
 - *Human Detection,Tracking and Reidentification*, Major Project at Pulchowk Campus 2020
 - *Traffic Data Visualization and Collection System* with Javascript,PHP,HTML5 Minor Project at Pulchowk Campus 2019
@@ -33,3 +33,4 @@ meta:
 - [HackerRank](https://www.hackerrank.com/7krishna7dhakal7)
 - [Dev.to](https://dev.to/chauchausoup)
 
+ -->
