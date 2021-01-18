@@ -5,16 +5,25 @@
 
 .projects{
     background-color: rgb(254, 255, 253);
-    height: auto;
+    height: 100vh;
     display: grid;
     grid-template-columns: 0.33fr 0.67fr;
-
+align-items: center;
 }
 .projectPlaceholder{
     display: grid;
     justify-content: center;
     align-items: center;
     font-size: 50px;
+}
+.skillPlaceholder{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+   
+    padding: 100px;
+
 }
 
 .projectGroup{
@@ -23,7 +32,7 @@
     list-style: none;
 }
 .projectPer{
-    background: linear-gradient(to right, rgb(190, 187, 187) , rgb(234, 231, 231));
+    background: linear-gradient(to right, rgb(234, 230, 230) , rgb(253, 253, 253));
     margin: 5px;
     padding:10px;
     height:auto;
@@ -49,12 +58,24 @@
     text-align: center;
 }
 .skills{
-    background-color: khaki;
+    background:linear-gradient(to right, rgb(190, 187, 187) , rgb(234, 231, 231));;
     height: 100vh;
+    
 
 }
+.skillGroup{
+    list-style: none;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+
+}
+.skillPer{
+    border: 1px solid white;
+    
+}
+
 .socials{
-    background-color: lightblue;
+    background-color: rgb(24, 42, 48);
     height: 100vh;
 
 }
@@ -65,12 +86,29 @@
 .projects{
     display: grid;
     grid-template-columns: 1fr;
+    height: auto;
 }
 .projectGroup{
     display: grid;
     grid-template-columns: 1fr;
     padding: 10px;
 }
+.skills{
+    height: auto;
+    background-color: white;
+    color:rgb(44, 22, 44) ;
+}
+.skillPlaceholder{
+    padding: 30px;
+}
+.socials{
+    height:auto;
+}
 
 
 }
+
+
+.section{
+    padding: 0px;
+  }
