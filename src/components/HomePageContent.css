@@ -66,7 +66,7 @@ align-items: center;
 .skillGroup{
     list-style: none;
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
 
 }
 .skillPer{
@@ -100,7 +100,7 @@ align-items: center;
     margin: auto;
 }
 .skillPerLogo>img{
-    height: 100px;
+    height: 50px;
 }
 .socials{
     background-color: rgb(24, 42, 48);
