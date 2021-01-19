@@ -1,0 +1,28 @@
+.socials{
+    color:rgb(2, 2, 2);
+    height: auto;
+    display: flex;
+    list-style: none;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: hsl(0deg 0% 96%);
+}
+
+.socialGroup{
+    display: flex;
+    list-style: none;
+    flex-direction: row;
+    
+   
+    
+
+}
+
+
+
+.socialPer>img{
+    height: 50px;
+    margin-right: 10px;
+    
+}

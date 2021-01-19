@@ -6,6 +6,8 @@ export default function Projects() {
         <div className="projectPlaceholder">PROJECTS</div>
         <div className="projectHolders">
           <ul className="projectGroup">
+          <a href="https://docs.google.com/presentation/d/1QWzMFIacu6w5FfdgNFW5shG9XlMkhAcrw2YrRVVwgHo/edit?usp=sharing" target="_blank" rel="noreferrer" style={{textDecoration:"none",color:"black"}} >
+
             <li className="projectPer">
               <div className="projectTitle">
                 Traffic Data Entry and Visualization System
@@ -23,7 +25,9 @@ export default function Projects() {
                 </ul>
               </div>
             </li>
-            <li className="projectPer">
+            </a>
+            <a href="https://docs.google.com/presentation/d/1fGekAxsoKCeHIgKi6pUg0Dwrb4EgDzxV08b8mO7wORU/edit?usp=sharing" target="_blank" rel="noreferrer" style={{textDecoration:"none",color:"black"}} >
+            <li className="projectPer" >
               <div className="projectTitle">
                 Human Tracking and Reidentification
               </div>
@@ -38,6 +42,9 @@ export default function Projects() {
                 </ul>
               </div>
             </li>
+            </a>
+            <a href="https://github.com/chauchausoup/client-show-app" target="_blank" rel="noreferrer" style={{textDecoration:"none",color:"black"}} >
+
             <li className="projectPer">
               <div className="projectTitle">
                 News Portal Dashboard App using MERN stack
@@ -55,6 +62,9 @@ export default function Projects() {
                 </ul>
               </div>
             </li>
+            </a>
+            <a href="https://github.com/chauchausoup/trivia" target="_blank" rel="noreferrer" style={{textDecoration:"none",color:"black"}}>
+
             <li className="projectPer">
               <div className="projectTitle">
                 MVP for a Audience Response System
@@ -72,6 +82,9 @@ export default function Projects() {
                 </ul>
               </div>
             </li>
+            </a>
+            <a href="https://github.com/chauchausoup/drbslFS" target="_blank" rel="noreferrer" style={{textDecoration:"none",color:"black"}} >
+
             <li className="projectPer">
               <div className="projectTitle">
                 MVP website for professional doctors.
@@ -89,6 +102,7 @@ export default function Projects() {
                 </ul>
               </div>
             </li>
+            </a>
           </ul>
         </div>
       </div>
