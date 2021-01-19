@@ -5,7 +5,7 @@ import { graphql } from 'gatsby'
 import CustomPageHeader from '../components/CustomPageHeader'
 import HomePageContent from '../components/HomePageContent'
 
-import Content from '../components/Content'
+//import Content from '../components/Content'
 import Layout from '../components/Layout'
 
 // Export Template for use in CMS preview
@@ -16,11 +16,11 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, body }) => (
     
     <HomePageContent/>
  
-    <section className="section">
+    {/* <section className="section">
       <div className="container">
         <Content source={body} />
       </div>
-    </section>
+    </section> */}
   </main>
 )
 
