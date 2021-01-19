@@ -10,7 +10,7 @@ function CustomPageHeader(){
 
                 <div className="insideInfo">
                     <div className="infoSide">
-                    <p id="heading1">Krishna Dhakal (....under construction) </p>
+                    <p id="heading1">Krishna Dhakal </p>
                     <p id="heading2">Pulchowk Campus</p>
                     <p id="heading5">Bachelor's in Computer Engineering</p>
                     <p id="heading3">Lalitpur, Nepal</p>
