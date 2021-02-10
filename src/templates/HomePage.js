@@ -3,7 +3,7 @@ import { graphql } from 'gatsby'
 //import PageHeader from '../components/PageHeader'
 
 import CustomPageHeader from '../components/CustomPageHeader'
-import HomePageContent from '../components/HomePageContent'
+//import HomePageContent from '../components/HomePageContent'
 
 //import Content from '../components/Content'
 import Layout from '../components/Layout'
@@ -14,7 +14,7 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, body }) => (
    
     <CustomPageHeader/>
     
-    <HomePageContent/>
+   {/*  <HomePageContent/> */}
  
     {/* <section className="section">
       <div className="container">
