@@ -1,6 +1,6 @@
 import React from 'react'
 import './CustomPageHeader.css'
-
+import image from '../imageSide.jpg'
 
 
 function CustomPageHeader(){
@@ -19,7 +19,7 @@ function CustomPageHeader(){
                     </div>
                     <div className="imageSide">
                         <div className="box">
-                            <img src="https://instagram.fktm1-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/p640x640/50512988_542139546293336_4224320041212940611_n.jpg?_nc_ht=instagram.fktm1-2.fna.fbcdn.net&_nc_cat=108&_nc_ohc=bI6jMvYDi10AX9-Dgk0&tp=1&oh=9a8693504be881939971051fd334f9f2&oe=602E3A71" alt="img side"/>
+                            <img src={image} alt="img side"/>
                         </div>
                     </div> 
                 </div>               
